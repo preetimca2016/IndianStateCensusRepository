@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="CSV Files\" />
+    <Folder Include="DTO\" />
+    <Folder Include="DataDAO\" />
+  </ItemGroup>
+
 </Project>
